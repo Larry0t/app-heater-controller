@@ -1,5 +1,5 @@
 
-# 🔥 Victron 3-Phase Heater Controller — Node-RED
+# 🔥 3-Phase Heater Controller
 
 ## 📘 Overview
 This Node-RED flow controls **three heating relays (L1, L2, L3)** connected to Victron VE.Bus based systems.
